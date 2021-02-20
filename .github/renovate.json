@@ -1,10 +1,10 @@
 {
-    "automerge":true,
     "baseBranches": [
-        "master"
+        "dev"
     ],
     "extends": [
-        "config:base"
+        "@donmahallem"
     ],
     "requiredStatusChecks": null
 }
+

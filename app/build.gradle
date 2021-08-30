@@ -29,7 +29,7 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.jakewharton.timber:timber:4.7.1'
-    implementation 'com.google.firebase:firebase-core:18.0.2'
+    implementation 'com.google.firebase:firebase-core:18.0.3'
     implementation 'com.google.firebase:firebase-config:19.2.0'
     implementation 'com.github.PhilJay:MPAndroidChart:3.1.0'
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
